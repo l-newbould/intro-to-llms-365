@@ -14,6 +14,8 @@ https://www.udemy.com/course/intro-to-large-language-models-llms/
 
 These are the installed packages and versions used for this course. All were installed in a conda environment (see below for how I created this). 
 
+python=3.11
+
 ```
 openai==0.28 
 config==0.5.1 
